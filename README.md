@@ -19,5 +19,8 @@ It automates key library functions, including book cataloging, member registrati
 - Loan management (issue and return books)
 - Secure authentication and role-based access control
 
+## Contributor
+- Shehan Maleesha (AA1880)
+
 
 
